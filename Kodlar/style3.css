@@ -1,0 +1,27 @@
+p, div, span, h3, h4, main, address, article, a, img{
+    border: 2px dotted yellowgreen;
+}
+p {
+    background-color: burlywood;
+}
+
+div {
+    background-color: salmon;
+    margin-bottom: 15px;
+}
+span {
+    background-color: teal;
+    color:whitesmoke;
+    padding: 6px;
+}
+main{
+    margin-bottom: 10px;
+}
+address{
+    padding: 8px;
+}
+article {
+    margin-top: 10px;
+    color:brown;
+    margin-bottom: 10px;
+}
