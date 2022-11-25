@@ -1,0 +1,38 @@
+body{
+    background-color: wheat;
+}
+h1{
+    color:violet;
+    border: 3px dotted greenyellow;
+    border-radius: 5cm;
+    padding-left: 0.5cm;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+    padding: 12px 16px;
+}
+li a{
+    background-color: tomato;
+
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: bisque;
+    color: aquamarine;
+}
+p{
+    color: #DEBACE;
+    font-size: medium;
+    margin: 30px;
+    border: 1px dashed rebeccapurple;
+    padding: 0.5cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
